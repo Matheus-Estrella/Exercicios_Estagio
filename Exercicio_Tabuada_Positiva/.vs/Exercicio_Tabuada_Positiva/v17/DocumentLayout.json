@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Desktop\\Exerc\u00EDcios\\18.04.2024\\Exercicio_Tabuada_Positiva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11FEB01C-F390-401A-A551-045D1ADAFD1F}|Exercicio_Tabuada_Positiva\\Exercicio_Tabuada_Positiva.csproj|c:\\users\\matheus\\desktop\\exerc\u00EDcios\\18.04.2024\\exercicio_tabuada_positiva\\exercicio_tabuada_positiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FEB01C-F390-401A-A551-045D1ADAFD1F}|Exercicio_Tabuada_Positiva\\Exercicio_Tabuada_Positiva.csproj|solutionrelative:exercicio_tabuada_positiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Exerc\u00EDcios\\18.04.2024\\Exercicio_Tabuada_Positiva\\Exercicio_Tabuada_Positiva\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_Tabuada_Positiva\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Exerc\u00EDcios\\18.04.2024\\Exercicio_Tabuada_Positiva\\Exercicio_Tabuada_Positiva\\Program.cs",
+              "RelativeToolTip": "Exercicio_Tabuada_Positiva\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:03:23.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

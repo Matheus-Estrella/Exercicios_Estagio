@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Desktop\\Exerc\u00EDcios\\17.04.2024\\Exercicio_Par_Impar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88066F20-6CDB-4503-92B1-8E18852EC9EF}|Exercicio_Par_Impar\\Exercicio_Par_Impar.csproj|c:\\users\\matheus\\desktop\\exerc\u00EDcios\\17.04.2024\\exercicio_par_impar\\exercicio_par_impar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88066F20-6CDB-4503-92B1-8E18852EC9EF}|Exercicio_Par_Impar\\Exercicio_Par_Impar.csproj|solutionrelative:exercicio_par_impar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Exerc\u00EDcios\\17.04.2024\\Exercicio_Par_Impar\\Exercicio_Par_Impar\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_Par_Impar\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Exerc\u00EDcios\\17.04.2024\\Exercicio_Par_Impar\\Exercicio_Par_Impar\\Program.cs",
+              "RelativeToolTip": "Exercicio_Par_Impar\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:34:18.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

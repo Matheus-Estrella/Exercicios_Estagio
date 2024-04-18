@@ -1,0 +1,14 @@
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Intervalo_Par_Impar\Exercicio_Intervalo_Par_Impar\bin\Debug\net6.0\Exercicio_Intervalo_Par_Impar.exe
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Intervalo_Par_Impar\Exercicio_Intervalo_Par_Impar\bin\Debug\net6.0\Exercicio_Intervalo_Par_Impar.deps.json
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Intervalo_Par_Impar\Exercicio_Intervalo_Par_Impar\bin\Debug\net6.0\Exercicio_Intervalo_Par_Impar.runtimeconfig.json
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Intervalo_Par_Impar\Exercicio_Intervalo_Par_Impar\bin\Debug\net6.0\Exercicio_Intervalo_Par_Impar.dll
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Intervalo_Par_Impar\Exercicio_Intervalo_Par_Impar\bin\Debug\net6.0\Exercicio_Intervalo_Par_Impar.pdb
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Intervalo_Par_Impar\Exercicio_Intervalo_Par_Impar\obj\Debug\net6.0\Exercicio_Intervalo_Par_Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Intervalo_Par_Impar\Exercicio_Intervalo_Par_Impar\obj\Debug\net6.0\Exercicio_Intervalo_Par_Impar.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Intervalo_Par_Impar\Exercicio_Intervalo_Par_Impar\obj\Debug\net6.0\Exercicio_Intervalo_Par_Impar.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Intervalo_Par_Impar\Exercicio_Intervalo_Par_Impar\obj\Debug\net6.0\Exercicio_Intervalo_Par_Impar.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Intervalo_Par_Impar\Exercicio_Intervalo_Par_Impar\obj\Debug\net6.0\Exercicio_Intervalo_Par_Impar.dll
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Intervalo_Par_Impar\Exercicio_Intervalo_Par_Impar\obj\Debug\net6.0\refint\Exercicio_Intervalo_Par_Impar.dll
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Intervalo_Par_Impar\Exercicio_Intervalo_Par_Impar\obj\Debug\net6.0\Exercicio_Intervalo_Par_Impar.pdb
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Intervalo_Par_Impar\Exercicio_Intervalo_Par_Impar\obj\Debug\net6.0\Exercicio_Intervalo_Par_Impar.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Intervalo_Par_Impar\Exercicio_Intervalo_Par_Impar\obj\Debug\net6.0\ref\Exercicio_Intervalo_Par_Impar.dll

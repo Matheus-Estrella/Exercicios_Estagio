@@ -1,0 +1,7 @@
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Par_Impar\Exercicio_Par_Impar\bin\Debug\Exercicio_Par_Impar.exe.config
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Par_Impar\Exercicio_Par_Impar\bin\Debug\Exercicio_Par_Impar.exe
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Par_Impar\Exercicio_Par_Impar\bin\Debug\Exercicio_Par_Impar.pdb
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Par_Impar\Exercicio_Par_Impar\obj\Debug\Exercicio_Par_Impar.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Par_Impar\Exercicio_Par_Impar\obj\Debug\Exercicio_Par_Impar.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Par_Impar\Exercicio_Par_Impar\obj\Debug\Exercicio_Par_Impar.exe
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Par_Impar\Exercicio_Par_Impar\obj\Debug\Exercicio_Par_Impar.pdb

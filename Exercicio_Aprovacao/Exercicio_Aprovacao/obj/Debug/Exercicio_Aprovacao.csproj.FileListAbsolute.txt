@@ -1,0 +1,7 @@
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Aprovacao\Exercicio_Aprovacao\bin\Debug\Exercicio_Aprovacao.exe.config
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Aprovacao\Exercicio_Aprovacao\bin\Debug\Exercicio_Aprovacao.exe
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Aprovacao\Exercicio_Aprovacao\bin\Debug\Exercicio_Aprovacao.pdb
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Aprovacao\Exercicio_Aprovacao\obj\Debug\Exercicio_Aprovacao.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Aprovacao\Exercicio_Aprovacao\obj\Debug\Exercicio_Aprovacao.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Aprovacao\Exercicio_Aprovacao\obj\Debug\Exercicio_Aprovacao.exe
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Aprovacao\Exercicio_Aprovacao\obj\Debug\Exercicio_Aprovacao.pdb

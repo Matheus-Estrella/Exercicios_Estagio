@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Desktop\\Exerc\u00EDcios\\17.04.2024\\Exercicio_Maior_Idade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F93FBBFE-C1DB-4D3E-8319-ED3BC7199735}|Exercicio_Maior_Idade\\Exercicio_Maior_Idade.csproj|c:\\users\\matheus\\desktop\\exerc\u00EDcios\\17.04.2024\\exercicio_maior_idade\\exercicio_maior_idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93FBBFE-C1DB-4D3E-8319-ED3BC7199735}|Exercicio_Maior_Idade\\Exercicio_Maior_Idade.csproj|solutionrelative:exercicio_maior_idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Exerc\u00EDcios\\17.04.2024\\Exercicio_Maior_Idade\\Exercicio_Maior_Idade\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_Maior_Idade\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Exerc\u00EDcios\\17.04.2024\\Exercicio_Maior_Idade\\Exercicio_Maior_Idade\\Program.cs",
+              "RelativeToolTip": "Exercicio_Maior_Idade\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:48:20.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

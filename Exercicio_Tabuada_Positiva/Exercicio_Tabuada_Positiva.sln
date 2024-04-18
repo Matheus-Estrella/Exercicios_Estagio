@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_Tabuada_Positiva", "Exercicio_Tabuada_Positiva\Exercicio_Tabuada_Positiva.csproj", "{11FEB01C-F390-401A-A551-045D1ADAFD1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11FEB01C-F390-401A-A551-045D1ADAFD1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FEB01C-F390-401A-A551-045D1ADAFD1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FEB01C-F390-401A-A551-045D1ADAFD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FEB01C-F390-401A-A551-045D1ADAFD1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9643CA51-396E-4962-B8D2-C113CEDBA580}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Maior_Idade\Exercicio_Maior_Idade\bin\Debug\Exercicio_Maior_Idade.exe.config
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Maior_Idade\Exercicio_Maior_Idade\bin\Debug\Exercicio_Maior_Idade.exe
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Maior_Idade\Exercicio_Maior_Idade\bin\Debug\Exercicio_Maior_Idade.pdb
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Maior_Idade\Exercicio_Maior_Idade\obj\Debug\Exercicio_Maior_Idade.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Maior_Idade\Exercicio_Maior_Idade\obj\Debug\Exercicio_Maior_Idade.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Maior_Idade\Exercicio_Maior_Idade\obj\Debug\Exercicio_Maior_Idade.exe
+C:\Users\Matheus\Desktop\Exercícios\17.04.2024\Exercicio_Maior_Idade\Exercicio_Maior_Idade\obj\Debug\Exercicio_Maior_Idade.pdb

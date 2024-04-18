@@ -1,0 +1,14 @@
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Tabuada_Positiva\Exercicio_Tabuada_Positiva\bin\Debug\net6.0\Exercicio_Tabuada_Positiva.exe
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Tabuada_Positiva\Exercicio_Tabuada_Positiva\bin\Debug\net6.0\Exercicio_Tabuada_Positiva.deps.json
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Tabuada_Positiva\Exercicio_Tabuada_Positiva\bin\Debug\net6.0\Exercicio_Tabuada_Positiva.runtimeconfig.json
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Tabuada_Positiva\Exercicio_Tabuada_Positiva\bin\Debug\net6.0\Exercicio_Tabuada_Positiva.dll
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Tabuada_Positiva\Exercicio_Tabuada_Positiva\bin\Debug\net6.0\Exercicio_Tabuada_Positiva.pdb
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Tabuada_Positiva\Exercicio_Tabuada_Positiva\obj\Debug\net6.0\Exercicio_Tabuada_Positiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Tabuada_Positiva\Exercicio_Tabuada_Positiva\obj\Debug\net6.0\Exercicio_Tabuada_Positiva.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Tabuada_Positiva\Exercicio_Tabuada_Positiva\obj\Debug\net6.0\Exercicio_Tabuada_Positiva.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Tabuada_Positiva\Exercicio_Tabuada_Positiva\obj\Debug\net6.0\Exercicio_Tabuada_Positiva.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Tabuada_Positiva\Exercicio_Tabuada_Positiva\obj\Debug\net6.0\Exercicio_Tabuada_Positiva.dll
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Tabuada_Positiva\Exercicio_Tabuada_Positiva\obj\Debug\net6.0\refint\Exercicio_Tabuada_Positiva.dll
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Tabuada_Positiva\Exercicio_Tabuada_Positiva\obj\Debug\net6.0\Exercicio_Tabuada_Positiva.pdb
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Tabuada_Positiva\Exercicio_Tabuada_Positiva\obj\Debug\net6.0\Exercicio_Tabuada_Positiva.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Exercícios\18.04.2024\Exercicio_Tabuada_Positiva\Exercicio_Tabuada_Positiva\obj\Debug\net6.0\ref\Exercicio_Tabuada_Positiva.dll
