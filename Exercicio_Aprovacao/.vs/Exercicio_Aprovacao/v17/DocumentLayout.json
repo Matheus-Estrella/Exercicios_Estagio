@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Matheus\\Desktop\\Exerc\u00EDcios\\17.04.2024\\Exercicio_Aprovacao\\",
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Exercicios_Estagio\\Exercicio_Aprovacao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF701B98-1FBF-45FE-B361-84A8F499F453}|Exercicio_Aprovacao\\Exercicio_Aprovacao.csproj|c:\\users\\matheus\\desktop\\exerc\u00EDcios\\17.04.2024\\exercicio_aprovacao\\exercicio_aprovacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF701B98-1FBF-45FE-B361-84A8F499F453}|Exercicio_Aprovacao\\Exercicio_Aprovacao.csproj|c:\\users\\matheus\\exercicios_estagio\\exercicio_aprovacao\\exercicio_aprovacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF701B98-1FBF-45FE-B361-84A8F499F453}|Exercicio_Aprovacao\\Exercicio_Aprovacao.csproj|solutionrelative:exercicio_aprovacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Exerc\u00EDcios\\17.04.2024\\Exercicio_Aprovacao\\Exercicio_Aprovacao\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Exercicios_Estagio\\Exercicio_Aprovacao\\Exercicio_Aprovacao\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio_Aprovacao\\Program.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Exerc\u00EDcios\\17.04.2024\\Exercicio_Aprovacao\\Exercicio_Aprovacao\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\Exercicio_Aprovacao\\Exercicio_Aprovacao\\Program.cs",
               "RelativeToolTip": "Exercicio_Aprovacao\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAiwB8AAAAFAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvwwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T01:33:55.021Z",
               "EditorCaption": ""

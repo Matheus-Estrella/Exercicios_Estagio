@@ -10,12 +10,11 @@ namespace Exercicio_Aprovacao
     {
         static void Main(string[] args)
         {
-            float nota1, nota2;
+            float nota1, media, nota2;
             Console.Write("Insira o valor da primeira nota: ");
             nota1 = float.Parse(Console.ReadLine());
             Console.Write("\nInsira o valor da segunda nota: ");
             nota2 = float.Parse(Console.ReadLine());
-            float media;
             media = (nota1 + nota2)/2;
             if (media > 5)
             {
