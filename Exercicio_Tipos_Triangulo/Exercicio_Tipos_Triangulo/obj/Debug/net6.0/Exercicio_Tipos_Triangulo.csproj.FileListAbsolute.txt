@@ -1,0 +1,15 @@
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Tipos_Triangulo\Exercicio_Tipos_Triangulo\bin\Debug\net6.0\Exercicio_Tipos_Triangulo.exe
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Tipos_Triangulo\Exercicio_Tipos_Triangulo\bin\Debug\net6.0\Exercicio_Tipos_Triangulo.deps.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Tipos_Triangulo\Exercicio_Tipos_Triangulo\bin\Debug\net6.0\Exercicio_Tipos_Triangulo.runtimeconfig.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Tipos_Triangulo\Exercicio_Tipos_Triangulo\bin\Debug\net6.0\Exercicio_Tipos_Triangulo.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Tipos_Triangulo\Exercicio_Tipos_Triangulo\bin\Debug\net6.0\Exercicio_Tipos_Triangulo.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Tipos_Triangulo\Exercicio_Tipos_Triangulo\obj\Debug\net6.0\Exercicio_Tipos_Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Tipos_Triangulo\Exercicio_Tipos_Triangulo\obj\Debug\net6.0\Exercicio_Tipos_Triangulo.AssemblyInfoInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Tipos_Triangulo\Exercicio_Tipos_Triangulo\obj\Debug\net6.0\Exercicio_Tipos_Triangulo.AssemblyInfo.cs
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Tipos_Triangulo\Exercicio_Tipos_Triangulo\obj\Debug\net6.0\Exercicio_Tipos_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Tipos_Triangulo\Exercicio_Tipos_Triangulo\obj\Debug\net6.0\Exercicio_Tipos_Triangulo.sourcelink.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Tipos_Triangulo\Exercicio_Tipos_Triangulo\obj\Debug\net6.0\Exercicio_Tipos_Triangulo.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Tipos_Triangulo\Exercicio_Tipos_Triangulo\obj\Debug\net6.0\refint\Exercicio_Tipos_Triangulo.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Tipos_Triangulo\Exercicio_Tipos_Triangulo\obj\Debug\net6.0\Exercicio_Tipos_Triangulo.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Tipos_Triangulo\Exercicio_Tipos_Triangulo\obj\Debug\net6.0\Exercicio_Tipos_Triangulo.genruntimeconfig.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Tipos_Triangulo\Exercicio_Tipos_Triangulo\obj\Debug\net6.0\ref\Exercicio_Tipos_Triangulo.dll

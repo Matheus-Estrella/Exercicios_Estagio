@@ -1,0 +1,15 @@
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_IMC\Exercicio_IMC\bin\Debug\net6.0\Exercicio_IMC.exe
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_IMC\Exercicio_IMC\bin\Debug\net6.0\Exercicio_IMC.deps.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_IMC\Exercicio_IMC\bin\Debug\net6.0\Exercicio_IMC.runtimeconfig.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_IMC\Exercicio_IMC\bin\Debug\net6.0\Exercicio_IMC.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_IMC\Exercicio_IMC\bin\Debug\net6.0\Exercicio_IMC.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_IMC\Exercicio_IMC\obj\Debug\net6.0\Exercicio_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_IMC\Exercicio_IMC\obj\Debug\net6.0\Exercicio_IMC.AssemblyInfoInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_IMC\Exercicio_IMC\obj\Debug\net6.0\Exercicio_IMC.AssemblyInfo.cs
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_IMC\Exercicio_IMC\obj\Debug\net6.0\Exercicio_IMC.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_IMC\Exercicio_IMC\obj\Debug\net6.0\Exercicio_IMC.sourcelink.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_IMC\Exercicio_IMC\obj\Debug\net6.0\Exercicio_IMC.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_IMC\Exercicio_IMC\obj\Debug\net6.0\refint\Exercicio_IMC.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_IMC\Exercicio_IMC\obj\Debug\net6.0\Exercicio_IMC.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_IMC\Exercicio_IMC\obj\Debug\net6.0\Exercicio_IMC.genruntimeconfig.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_IMC\Exercicio_IMC\obj\Debug\net6.0\ref\Exercicio_IMC.dll

@@ -1,0 +1,15 @@
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Numero_Primo\Exercicio_Numero_Primo\obj\Debug\net6.0\Exercicio_Numero_Primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Numero_Primo\Exercicio_Numero_Primo\obj\Debug\net6.0\Exercicio_Numero_Primo.AssemblyInfoInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Numero_Primo\Exercicio_Numero_Primo\obj\Debug\net6.0\Exercicio_Numero_Primo.AssemblyInfo.cs
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Numero_Primo\Exercicio_Numero_Primo\obj\Debug\net6.0\Exercicio_Numero_Primo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Numero_Primo\Exercicio_Numero_Primo\obj\Debug\net6.0\Exercicio_Numero_Primo.sourcelink.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Numero_Primo\Exercicio_Numero_Primo\bin\Debug\net6.0\Exercicio_Numero_Primo.exe
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Numero_Primo\Exercicio_Numero_Primo\bin\Debug\net6.0\Exercicio_Numero_Primo.deps.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Numero_Primo\Exercicio_Numero_Primo\bin\Debug\net6.0\Exercicio_Numero_Primo.runtimeconfig.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Numero_Primo\Exercicio_Numero_Primo\bin\Debug\net6.0\Exercicio_Numero_Primo.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Numero_Primo\Exercicio_Numero_Primo\bin\Debug\net6.0\Exercicio_Numero_Primo.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Numero_Primo\Exercicio_Numero_Primo\obj\Debug\net6.0\Exercicio_Numero_Primo.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Numero_Primo\Exercicio_Numero_Primo\obj\Debug\net6.0\refint\Exercicio_Numero_Primo.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Numero_Primo\Exercicio_Numero_Primo\obj\Debug\net6.0\Exercicio_Numero_Primo.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Numero_Primo\Exercicio_Numero_Primo\obj\Debug\net6.0\Exercicio_Numero_Primo.genruntimeconfig.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Numero_Primo\Exercicio_Numero_Primo\obj\Debug\net6.0\ref\Exercicio_Numero_Primo.dll

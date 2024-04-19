@@ -1,0 +1,15 @@
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Hipotenusa\Exercicio_Hipotenusa\bin\Debug\net6.0\Exercicio_Hipotenusa.exe
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Hipotenusa\Exercicio_Hipotenusa\bin\Debug\net6.0\Exercicio_Hipotenusa.deps.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Hipotenusa\Exercicio_Hipotenusa\bin\Debug\net6.0\Exercicio_Hipotenusa.runtimeconfig.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Hipotenusa\Exercicio_Hipotenusa\bin\Debug\net6.0\Exercicio_Hipotenusa.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Hipotenusa\Exercicio_Hipotenusa\bin\Debug\net6.0\Exercicio_Hipotenusa.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Hipotenusa\Exercicio_Hipotenusa\obj\Debug\net6.0\Exercicio_Hipotenusa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Hipotenusa\Exercicio_Hipotenusa\obj\Debug\net6.0\Exercicio_Hipotenusa.AssemblyInfoInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Hipotenusa\Exercicio_Hipotenusa\obj\Debug\net6.0\Exercicio_Hipotenusa.AssemblyInfo.cs
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Hipotenusa\Exercicio_Hipotenusa\obj\Debug\net6.0\Exercicio_Hipotenusa.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Hipotenusa\Exercicio_Hipotenusa\obj\Debug\net6.0\Exercicio_Hipotenusa.sourcelink.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Hipotenusa\Exercicio_Hipotenusa\obj\Debug\net6.0\Exercicio_Hipotenusa.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Hipotenusa\Exercicio_Hipotenusa\obj\Debug\net6.0\refint\Exercicio_Hipotenusa.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Hipotenusa\Exercicio_Hipotenusa\obj\Debug\net6.0\Exercicio_Hipotenusa.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Hipotenusa\Exercicio_Hipotenusa\obj\Debug\net6.0\Exercicio_Hipotenusa.genruntimeconfig.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Hipotenusa\Exercicio_Hipotenusa\obj\Debug\net6.0\ref\Exercicio_Hipotenusa.dll
