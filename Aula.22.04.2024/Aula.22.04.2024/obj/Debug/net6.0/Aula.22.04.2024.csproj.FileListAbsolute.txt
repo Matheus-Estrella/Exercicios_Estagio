@@ -1,0 +1,15 @@
+C:\Users\Matheus\Exercicios_Estagio\Aula.22.04.2024\Aula.22.04.2024\bin\Debug\net6.0\Aula.22.04.2024.exe
+C:\Users\Matheus\Exercicios_Estagio\Aula.22.04.2024\Aula.22.04.2024\bin\Debug\net6.0\Aula.22.04.2024.deps.json
+C:\Users\Matheus\Exercicios_Estagio\Aula.22.04.2024\Aula.22.04.2024\bin\Debug\net6.0\Aula.22.04.2024.runtimeconfig.json
+C:\Users\Matheus\Exercicios_Estagio\Aula.22.04.2024\Aula.22.04.2024\bin\Debug\net6.0\Aula.22.04.2024.dll
+C:\Users\Matheus\Exercicios_Estagio\Aula.22.04.2024\Aula.22.04.2024\bin\Debug\net6.0\Aula.22.04.2024.pdb
+C:\Users\Matheus\Exercicios_Estagio\Aula.22.04.2024\Aula.22.04.2024\obj\Debug\net6.0\Aula.22.04.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Exercicios_Estagio\Aula.22.04.2024\Aula.22.04.2024\obj\Debug\net6.0\Aula.22.04.2024.AssemblyInfoInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Aula.22.04.2024\Aula.22.04.2024\obj\Debug\net6.0\Aula.22.04.2024.AssemblyInfo.cs
+C:\Users\Matheus\Exercicios_Estagio\Aula.22.04.2024\Aula.22.04.2024\obj\Debug\net6.0\Aula.22.04.2024.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Aula.22.04.2024\Aula.22.04.2024\obj\Debug\net6.0\Aula.22.04.2024.sourcelink.json
+C:\Users\Matheus\Exercicios_Estagio\Aula.22.04.2024\Aula.22.04.2024\obj\Debug\net6.0\Aula.22.04.2024.dll
+C:\Users\Matheus\Exercicios_Estagio\Aula.22.04.2024\Aula.22.04.2024\obj\Debug\net6.0\refint\Aula.22.04.2024.dll
+C:\Users\Matheus\Exercicios_Estagio\Aula.22.04.2024\Aula.22.04.2024\obj\Debug\net6.0\Aula.22.04.2024.pdb
+C:\Users\Matheus\Exercicios_Estagio\Aula.22.04.2024\Aula.22.04.2024\obj\Debug\net6.0\Aula.22.04.2024.genruntimeconfig.cache
+C:\Users\Matheus\Exercicios_Estagio\Aula.22.04.2024\Aula.22.04.2024\obj\Debug\net6.0\ref\Aula.22.04.2024.dll

@@ -5,7 +5,7 @@ for(i=0; i<10; i++)
 {
     do
     {
-        Console.WriteLine($"\nInsira a idade da {(i)+1}ª pessoa");
+        Console.Write($"\nInsira a idade da {(i)+1}ª pessoa: ");
         idade = int.Parse(Console.ReadLine());
         if(idade < 0)
         {
@@ -21,4 +21,18 @@ for(i=0; i<10; i++)
         maiores++;
     }
 }
-Console.WriteLine($"\n\nHá {menores} menores e {maiores} maiores de idade \n\n");
+int op;
+Console.WriteLine("Digite uma opção para mostrar a quantidade das idades:\n1-) Menores de Idade;\n2-) Maiores de Idade");
+op = int.Parse(Console.ReadLine());
+switch (op)
+{
+    case 1:
+        Console.WriteLine($"\n\nHá {menores} menores de idade \n\n");
+        break;
+    case 2:
+        Console.WriteLine($"\n\nHá {maiores} maiores de idade \n\n");
+        break;
+    default:
+        Console.WriteLine("\nInsira uma opção válida");
+        break;
+}

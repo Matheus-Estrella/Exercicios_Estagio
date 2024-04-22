@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercicio_Separar_Vogais_Consoantes/1.0.0": {
+        "runtime": {
+          "Exercicio_Separar_Vogais_Consoantes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_Separar_Vogais_Consoantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

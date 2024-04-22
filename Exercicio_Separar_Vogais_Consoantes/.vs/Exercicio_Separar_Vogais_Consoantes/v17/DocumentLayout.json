@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Exercicios_Estagio\\Exercicio_Separar_Vogais_Consoantes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F90CFA9-7CA9-4946-87CB-DDF91E4F8DBD}|Exercicio_Separar_Vogais_Consoantes\\Exercicio_Separar_Vogais_Consoantes.csproj|c:\\users\\matheus\\exercicios_estagio\\exercicio_separar_vogais_consoantes\\exercicio_separar_vogais_consoantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F90CFA9-7CA9-4946-87CB-DDF91E4F8DBD}|Exercicio_Separar_Vogais_Consoantes\\Exercicio_Separar_Vogais_Consoantes.csproj|solutionrelative:exercicio_separar_vogais_consoantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Exercicios_Estagio\\Exercicio_Separar_Vogais_Consoantes\\Exercicio_Separar_Vogais_Consoantes\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_Separar_Vogais_Consoantes\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\Exercicio_Separar_Vogais_Consoantes\\Exercicio_Separar_Vogais_Consoantes\\Program.cs",
+              "RelativeToolTip": "Exercicio_Separar_Vogais_Consoantes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:23:31.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
