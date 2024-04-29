@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Exercicios_Estagio\\Teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F700D8D9-A2EA-4C23-A64F-64D0F9744727}|Teste\\Teste.csproj|c:\\users\\matheus\\exercicios_estagio\\teste\\teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F700D8D9-A2EA-4C23-A64F-64D0F9744727}|Teste\\Teste.csproj|solutionrelative:teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Exercicios_Estagio\\Teste\\Teste\\Program.cs",
+              "RelativeDocumentMoniker": "Teste\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\Teste\\Teste\\Program.cs",
+              "RelativeToolTip": "Teste\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:48:36.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

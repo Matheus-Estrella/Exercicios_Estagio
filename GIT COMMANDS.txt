@@ -1,0 +1,8 @@
+cd Exercicios_Estagio
+cd NOME_PASTA
+git init
+git add *
+git commit -m "Upload Exercício"
+git branch -M main
+git remote add origin https://github.com/Matheus-Estrella/NOMEREPOSITÓRIO.git
+git push -u origin main

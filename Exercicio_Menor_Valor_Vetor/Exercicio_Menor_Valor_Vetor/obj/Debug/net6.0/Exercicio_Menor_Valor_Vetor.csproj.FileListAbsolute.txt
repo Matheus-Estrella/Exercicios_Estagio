@@ -1,0 +1,15 @@
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Menor_Valor_Vetor\Exercicio_Menor_Valor_Vetor\obj\Debug\net6.0\Exercicio_Menor_Valor_Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Menor_Valor_Vetor\Exercicio_Menor_Valor_Vetor\obj\Debug\net6.0\Exercicio_Menor_Valor_Vetor.AssemblyInfoInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Menor_Valor_Vetor\Exercicio_Menor_Valor_Vetor\obj\Debug\net6.0\Exercicio_Menor_Valor_Vetor.AssemblyInfo.cs
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Menor_Valor_Vetor\Exercicio_Menor_Valor_Vetor\obj\Debug\net6.0\Exercicio_Menor_Valor_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Menor_Valor_Vetor\Exercicio_Menor_Valor_Vetor\obj\Debug\net6.0\Exercicio_Menor_Valor_Vetor.sourcelink.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Menor_Valor_Vetor\Exercicio_Menor_Valor_Vetor\bin\Debug\net6.0\Exercicio_Menor_Valor_Vetor.exe
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Menor_Valor_Vetor\Exercicio_Menor_Valor_Vetor\bin\Debug\net6.0\Exercicio_Menor_Valor_Vetor.deps.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Menor_Valor_Vetor\Exercicio_Menor_Valor_Vetor\bin\Debug\net6.0\Exercicio_Menor_Valor_Vetor.runtimeconfig.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Menor_Valor_Vetor\Exercicio_Menor_Valor_Vetor\bin\Debug\net6.0\Exercicio_Menor_Valor_Vetor.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Menor_Valor_Vetor\Exercicio_Menor_Valor_Vetor\bin\Debug\net6.0\Exercicio_Menor_Valor_Vetor.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Menor_Valor_Vetor\Exercicio_Menor_Valor_Vetor\obj\Debug\net6.0\Exercicio_Menor_Valor_Vetor.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Menor_Valor_Vetor\Exercicio_Menor_Valor_Vetor\obj\Debug\net6.0\refint\Exercicio_Menor_Valor_Vetor.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Menor_Valor_Vetor\Exercicio_Menor_Valor_Vetor\obj\Debug\net6.0\Exercicio_Menor_Valor_Vetor.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Menor_Valor_Vetor\Exercicio_Menor_Valor_Vetor\obj\Debug\net6.0\Exercicio_Menor_Valor_Vetor.genruntimeconfig.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Menor_Valor_Vetor\Exercicio_Menor_Valor_Vetor\obj\Debug\net6.0\ref\Exercicio_Menor_Valor_Vetor.dll
